@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person_info>
+	<first_name>Marija</first_name>
+	<second_name>Gorbacheva</second_name>
+	<patronymic>Andreevna</patronymic>
+	<age>26</age>
+	<pets>1</pets>
+	<salary>1000</salary>
+</person_info>
